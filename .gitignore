@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+AWSLineBot/S3ToLine/aws-lambda-tools-defaults.json
+AWSLineBot/LineToS3/aws-lambda-tools-defaults.json
